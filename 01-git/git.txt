@@ -4,7 +4,14 @@ git reset hashId(log) - to remove last commits
 git stash - to hide new changes
 git stash pop - to restore all old changes
 git stash clear - to clear all old changes 
+git push -u origin master -f       - force push
 
+git brach branchname/feature
+git checkout feature
+git merge (feature/branch name) - to merge another ranch in main branch 
+
+
+git remote -v  - to check the github repo link
 
 
 
