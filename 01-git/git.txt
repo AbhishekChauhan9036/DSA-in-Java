@@ -1,0 +1,11 @@
+git log  - to see all the commit history
+git reset hashId(log) - to remove last commits
+
+git stash - to hide new changes
+git stash pop - to restore all old changes
+git stash clear - to clear all old changes 
+
+
+
+
+
