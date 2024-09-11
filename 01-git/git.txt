@@ -1,3 +1,5 @@
+rm -rf  filename /to remove file
+
 git log  - to see all the commit history
 git reset hashId(log) - to remove last commits
 
@@ -14,5 +16,6 @@ git merge (feature/branch name) - to merge another ranch in main branch
 git remote -v  - to check the github repo link
 
 
+git fetch --all --prune 
 
 
